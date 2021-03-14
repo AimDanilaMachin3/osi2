@@ -1,0 +1,9 @@
+C:\Users\Данила\source\repos\OSI2\OSI2\bin\Debug\OSI2.exe.config
+C:\Users\Данила\source\repos\OSI2\OSI2\bin\Debug\OSI2.exe
+C:\Users\Данила\source\repos\OSI2\OSI2\bin\Debug\OSI2.pdb
+C:\Users\Данила\source\repos\OSI2\OSI2\obj\Debug\OSI2.csprojAssemblyReference.cache
+C:\Users\Данила\source\repos\OSI2\OSI2\obj\Debug\OSI2.Form1.resources
+C:\Users\Данила\source\repos\OSI2\OSI2\obj\Debug\OSI2.Properties.Resources.resources
+C:\Users\Данила\source\repos\OSI2\OSI2\obj\Debug\OSI2.csproj.GenerateResource.cache
+C:\Users\Данила\source\repos\OSI2\OSI2\obj\Debug\OSI2.exe
+C:\Users\Данила\source\repos\OSI2\OSI2\obj\Debug\OSI2.pdb
